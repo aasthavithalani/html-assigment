@@ -51,7 +51,7 @@ HTML.
 - there are 2 types of lists in html,which we can see here:-
 
 1. Unordered List (`<ul>`)
-- unordered lists, which have no inherent order and each item is bulleted.
+- unordered list is used where order doesn't matter  
  **Example:**
  - phone
  - laptop
@@ -59,7 +59,7 @@ HTML.
  - fridge
 
 2.Ordered List (`<ol>`)
-- ordred lists, which havee an inherent order and each item is numbered.
+- Ordered list is used where order matters.
  Creates a numbered list.
 **Example:**
 - one
